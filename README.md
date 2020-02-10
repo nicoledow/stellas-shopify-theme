@@ -43,3 +43,5 @@ All developers who wish to contribute through code or issues, take a look at the
 ## License
 
 Copyright © 2018 Shopify. See [LICENSE](https://github.com/Shopify/starter-theme/blob/master/LICENSE) for further details.
+
+Background photo by Chris Cooper on Unsplash. Thanks!
